@@ -1,5 +1,7 @@
 # Go GC algorithm 101
 
+Refs: <https://speakerdeck.com/taxio/go-gc-algorithm-101>
+
 garvage collection
 
 中村さんの
