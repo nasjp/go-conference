@@ -1,5 +1,4 @@
-# Go Conference 2019 Autumn
+# Go Conference
 
-Refs: <https://gocon.jp/schedule/#day_2019-10-28>
+## History
 
-Refs: <https://twitter.com/hashtag/gocon?src=hashtag_click>
