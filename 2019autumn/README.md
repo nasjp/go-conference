@@ -6,8 +6,6 @@ Refs: <https://gocon.jp/>
 
 Refs: <https://gocon.jp/schedule/#day_2019-10-28>
 
----
-
 ## Session
 
 [Go GC algorithm 101](https://speakerdeck.com/taxio/go-gc-algorithm-101)
@@ -44,8 +42,6 @@ Refs: <https://gocon.jp/schedule/#day_2019-10-28>
 
 [Golangで並行シミュレーテッドアニーリング](https://speakerdeck.com/tutuz/parallel-simulated-annealing)
 
----
-
 ## LT
 
 [今から始めるWebAssembly](https://docs.google.com/presentation/d/1QsOx_XEG8Wk12FSY-H-h8DWAEq7amRWoIOIHbK90J7s)
@@ -57,8 +53,6 @@ Refs: <https://gocon.jp/schedule/#day_2019-10-28>
 [Go1.13以後のエラーハンドリングについて語ろう](https://speakerdeck.com/ciarana/lets-talk-about-error-handling-after-go-1-13)
 
 [Go1.13からは今までのエラーハンドリングが機能しなくなるかもしれない](https://qiita.com/cia_rana/items/72a91175eadc1bffe9b0)
-
----
 
 ## Others
 
